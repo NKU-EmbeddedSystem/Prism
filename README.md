@@ -1,5 +1,7 @@
-#  Prism (2024 ICSE).
+#  Prism: Decomposing Program Semantics for Code Clone Detection through Compilation (2024 ICSE)
 ### This is the Official implementation of our ICSE2024 paper "Prism: Decomposing Program Semantics for Code Clone Detection through Compilation".
+
+![Alt text](Fig/prism.jpg)
 
 # Quick Start
 
